@@ -7,8 +7,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NimNim20&theme=radical&layout=compact&langs_count=12&card_width=460" />
 </a>
 
-![Snake animation](https://github.com/NimNim20/NimNim20/blob/output/github-contribution-grid-snake.svg)
-
 
 **NimNim20/NimNim20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
