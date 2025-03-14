@@ -12,6 +12,11 @@
   </a>
 </section>
 
+<section>
+  <h2>🚀 About Me</h2>
+I'm a passionate developer who loves working with <strong>Vue.js, Firebase</strong>, and building amazing web applications. Currently, I'm focused on improving my skills in <strong>frontend development</strong> and learning more about <strong>backend technologies</strong>.
+</section>
+
 <section align="center">
   <div flex="row">
     <h2>🛠️ Tech Stack</h2>
@@ -25,7 +30,6 @@
    ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
    
-   
   </div>
 
   <div width=150>
@@ -36,6 +40,9 @@
    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
     
   </div>
-
   </div>
+</section>
+
+<section>
+  
 </section>
