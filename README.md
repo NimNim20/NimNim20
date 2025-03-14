@@ -1,5 +1,5 @@
 <header align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello%20Everyone!👋&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF007F,9D00FF,5700FF&height=150&section=header&text=Hello%20Everyone!👋&fontSize=60&fontColor=ffffff" />
 </header>
 
 <section align="center">
